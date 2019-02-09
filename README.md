@@ -33,5 +33,6 @@ In my exemple the IP are:
 - 10.12.7.2 [PVE2]
 - ...
 - 10.12.7.8 [PVE8]
+
 And the password is proxmox(The same on all nodes)
-![Cluster exemple](proxmox.png)
+- ![Cluster exemple](proxmox.png)
