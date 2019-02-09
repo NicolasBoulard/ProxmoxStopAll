@@ -34,4 +34,4 @@ In my exemple the IP are:
 - ...
 - 10.12.7.8 [PVE8]
 And the password is proxmox(The same on all nodes)
-![Cluster exemple](/images/cluster.png)
+![Cluster exemple](/Proxmox.png)
