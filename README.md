@@ -27,8 +27,8 @@ export APACHE_RUN_GROUP=web
 5. Modify owner and permission:
 - chown web stopallvm.sh
 - chmod +x stopall.sh
-# Modify script
-In my exemple the IP are:
+# Edit script
+Exemple IP:
 - 10.12.7.1 [PVE1]
 - 10.12.7.2 [PVE2]
 - ...
